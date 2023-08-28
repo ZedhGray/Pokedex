@@ -57,7 +57,7 @@ const Pokedex = () => {
         Welcome <span>{trainerName}</span>!
       </h2>
       <form onSubmit={handleSubmit} className="pokedex__form">
-        <h2>Name or Number</h2>
+        <h2>Name</h2>
         <div className="pokedex__form-search">
           <input
             className="pokedex__input"

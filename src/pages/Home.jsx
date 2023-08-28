@@ -20,7 +20,7 @@ const Home = () => {
         <img src="https://i.gifer.com/5FBP.gif" alt="poke" />
       </div>
       <h1 className="home__title">
-        <img src="../public/assets/banner.png" alt="Pokedex" />
+        <img src="../assets/banner.png" alt="Pokedex" />
       </h1>
       <h2 className="home__subtitle">Hi Trainer!</h2>
       <p className="home__txt">
